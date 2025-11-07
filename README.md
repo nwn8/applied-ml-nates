@@ -13,7 +13,7 @@
 
 ---
 
-## WORKFLOW 1. Set Up Your Machine
+## WORKFLOW 1. Set Up Your Machine ok
 
 Proper setup is critical.
 Complete each step in the following guide and verify carefully.
