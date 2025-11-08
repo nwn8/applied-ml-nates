@@ -1,7 +1,16 @@
 # Analytics Project Documentation
+# Applied ML Projects
 
-Welcome! This site provides automatically generated reference documenation for your project.
+Author: Nathan Sloss
 
-Document your code as you work.
+This repository contains applied machine learning projects using a modern Python workflow.
+Each project follows a professional structure with reproducible environments, documented analysis steps, and clear results.
 
-Those comments will appear here and provide useful, professional documentation for your analytics project.
+--- 
+
+Projects index:
+
+- [**Project 01: Title Here**](project01/README.md)
+- [**Project 02: Title Here**](project02/README.md)
+- [**Project 03: Title Here**](project03/README.md)
+- [**Project 04: Title Here**](project04/README.md)
