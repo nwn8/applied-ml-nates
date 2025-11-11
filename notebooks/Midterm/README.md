@@ -1,8 +1,8 @@
 # Midterm Project: Classification Analysis
 
-> Author: Nathan Sloss
-> Date: 11/11/2025
-> Description: This project will test different classification models and features to produce the highest performing machine learning model using the Titanic dataset.
+Author: Nathan Sloss<br>
+ Date: 11/11/2025<br>
+ Description: This project will test different classification models and features to produce the highest performing machine learning model using the Titanic dataset.<br>
 
 
 
@@ -27,11 +27,11 @@ cabin	Cabin number	<br>
 embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
 
 
-Link to notebook: https://github.com/nwn8/applied-ml-nates/blob/main/notebooks/Midterm/classification_NathanSloss.ipynb
+Link to notebook: https://github.com/nwn8/applied-ml-nates/blob/main/notebooks/Midterm/classification_NathanSloss.ipynb <br>
 Link to peer review: https://github.com/nwn8/applied-ml-nates/blob/main/notebooks/Midterm/peer_review.md
 
 
-### Conclusion
+### Conclusions
 
 Comparison of all 3 features : Pclass, Fare, and Aggregate (Agg_squared was not supported for further inquiry), show that Pclass produced the best results in 3 different models Decision Tree, SVC , Neural Network. <br>
 
