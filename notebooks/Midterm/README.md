@@ -27,17 +27,41 @@ cabin	Cabin number	<br>
 embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
 
 
+Link to notebook: https://github.com/nwn8/applied-ml-nates/blob/main/notebooks/Midterm/classification_NathanSloss.ipynb
+Link to peer review: https://github.com/nwn8/applied-ml-nates/blob/main/notebooks/Midterm/peer_review.md
+
+
+### Conclusion
+
+Comparison of all 3 features : Pclass, Fare, and Aggregate (Agg_squared was not supported for further inquiry), show that Pclass produced the best results in 3 different models Decision Tree, SVC , Neural Network. <br>
+
+
+Comparing the results of the models for the feature "Pclass" <br>
+
+Decision Tree     <br>
+        precision    recall  f1-score   support<br>
+
+           0       0.73      0.83      0.77       110
+           1       0.65      0.51      0.57        69
+
+SVC <br>
+        precision    recall  f1-score   support
+
+           0       0.73      0.83      0.77       110
+           1       0.65      0.51      0.57        69
+
+Neural Network<br>
+        precision    recall  f1-score   support
+
+           0       0.73      0.83      0.77       110
+           1       0.65      0.51      0.57        69
 
 
 
-## README.md (Required)
+### NOTE -
 
-Include a professional README.md that introduces your project. Include:
-- a clickable link to your notebook file.
-- a clickable link to your your peer review Markdown file.
-- Instructions on how to set up your virtual environment and run your notebook locally.
--  Write a README.md summarizing your project, dataset, and findings (see below).
-1. Review a classmate’s project and provide feedback in peer_review.md (see below).
+ All 3 models produced the same results for the same feature
+
 
 
 ---
